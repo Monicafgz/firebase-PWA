@@ -1,0 +1,26 @@
+{
+  "name": "My name PWA",
+  "short_name": "Monica",
+  "icons": [
+    {
+      "src": "icons/icon128x128.png",
+      "sizes": "128x128",
+      "type": "image/png"
+    },
+    {
+      "src": "icons/icon-152x152.png",
+      "sizes": "152x152",
+      "type": "image/png"
+    },
+    {
+      "src": "icons/icon-256x256.png",
+      "sizes": "256x256",
+      "type": "image/png"
+    }
+  ],
+  "start_url": "/index.html",
+  "gcm_sender_id": "103953800507",
+  "display": "standalone",
+  "background_color": "#FF9800",
+  "theme_color": "#FF9800"
+}
